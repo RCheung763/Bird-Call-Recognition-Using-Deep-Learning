@@ -28,6 +28,7 @@ The results show significant improvement with the added preprocessing as shown b
 ### Improved Model
 
 |            | Accuracy |	Precision	| Recall | F1-Score |
+|------------|----------|-----------|--------|----------|
 | Training	 | .84	    | .85	      | .84	   | .84      |
 |Test	       | .80	    | .81	      | .80	   | .80      |
 
