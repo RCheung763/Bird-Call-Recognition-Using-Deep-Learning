@@ -1,1 +1,1 @@
-Enhancing Bird Call Recognition with Deep Learning and Advanced Preprocessing
+Enhancing Bird Call Recognition with Deep Learning and Advanced Preprocessing Techniques 
